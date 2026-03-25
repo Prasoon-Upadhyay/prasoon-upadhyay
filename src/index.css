@@ -1,0 +1,38 @@
+img[alt="python"], 
+img[alt="typescript"], 
+img[alt="react"], 
+img[alt="nodejs"], 
+img[alt="sql"], 
+img[alt="nextjs"], 
+img[alt="django"], 
+img[alt="tensorflow"], 
+img[alt="langchain"], 
+img[alt="hf"], 
+img[alt="external-link"],
+img[alt="pandas"],
+img[alt="mongodb"],
+img[alt="mysql"],
+img[alt="postgres"] {
+    transform: translateY(2px);
+    width: 14px;
+}
+
+img[alt="echarts"] {
+    width: 64px;
+    transform: translateY(2px);
+}
+
+img[alt="go"]  {
+    transform: translateY(8px);
+    width: 24px;
+}
+
+img[alt="langchain"]  {
+    transform: translateY(2px);
+    width: 54px;
+}
+
+img[alt="langgraph"]  {
+    transform: translateY(6px);
+    width: 24px;
+}

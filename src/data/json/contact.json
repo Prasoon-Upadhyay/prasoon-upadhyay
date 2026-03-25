@@ -1,0 +1,20 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com/Prasoon-Upadhyay/",
+    "icon": ["fab", "github"],
+    "isMain": false
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/prasoon-upadhyay-22170a226/",
+    "icon": ["fab", "linkedin"],
+    "isMain": false
+  },
+  {
+    "name": "twitter",
+    "url": "https://x.com/PrasoonUpadhy11",
+    "icon": ["fab", "twitter"],
+    "isMain": false
+  }
+]

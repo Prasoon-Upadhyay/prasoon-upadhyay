@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<ProgressBar /> > should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    style="width: 500px; height: 3px; background-color: rgb(45, 50, 58); margin-top: 3px;"
+  >
+    <div
+      style="height: 100%; width: 80%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+    />
+  </div>
+</DocumentFragment>
+`;
